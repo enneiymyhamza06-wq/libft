@@ -16,11 +16,11 @@ char	*ft_strchr(const char *s, int c)
 	return NULL;
 }
 
-#include <stdio.h>
+// #include <stdio.h>
 
-int main ()
-{
-	char *p;
-	p = ft_strchr("heelo",101);
-	printf("%p",p);
-}
+// int main ()
+// {
+// 	char *p;
+// 	p = ft_strchr("heelo",101);
+// 	printf("%p",p);
+// }
